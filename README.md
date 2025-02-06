@@ -70,9 +70,11 @@ npm start
 ---
 
 ## 📸 **Screenshots**
-### 🎨 **Modern UI**![image](https://github.com/user-attachments/assets/709c1c20-a82b-44f0-bdf5-5548fdce50ff)
+### 🎨 **Modern UI**!(assets/frontend.png)
+
 
 
 ### 🛋 **MongoDB Data Example**
-![MongoDB Preview](![image](https://github.com/user-attachments/assets/ac396b63-b7fb-49db-9f23-7da5bc9d09db)
+![MongoDB Preview]!(assets/mongodb.png)
+
 )
