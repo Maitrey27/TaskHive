@@ -70,11 +70,9 @@ npm start
 ---
 
 ## 📸 **Screenshots**
-### 🎨 **Modern UI**!(assets/frontend.png)
+### 🎨 **Modern UI**![(https://github.com/Maitrey27/TaskHive/blob/master/assets/frontend.png?raw=true)](https://github.com/Maitrey27/TaskHive/blob/master/assets/frontend.png)
 
 
 
 ### 🛋 **MongoDB Data Example**
-![MongoDB Preview]!(assets/mongodb.png)
-
-)
+![MongoDB Preview]![https://github.com/Maitrey27/TaskHive/blob/master/assets/mongodb.png?raw=true](https://github.com/Maitrey27/TaskHive/blob/master/assets/mongodb.png)
